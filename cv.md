@@ -4,11 +4,11 @@
 
 ## Contact
 
-- **Location:** Krasnodar, Krasnodar Region, Russia
-- **Phone:** +7 (928) 271-60-94
-- **E-mail:** gsidnick@gmail.com
-- **Discord:** gsidnick#8382
-- **Telegram** @gsidnick
+- **Location:** [Krasnodar, Krasnodar Region, Russia](https://goo.gl/maps/Q5URPwZ4SCZVZhuN7)
+- **Phone:** [+7 (928) 271-60-94](tel:+79282716094)
+- **E-mail:** [gsidnick@gmail.com](mailto:gsidnick@gmail.com)
+- **Discord:** [gsidnick#8382](https://discordapp.com/users/910837119314952202/)
+- **Telegram** [@gsidnick](https://t.me/gsidnick)
 
 ## About Me
 I am a passionate Front-End developer from Krasnodar, Russia. I like to develop
