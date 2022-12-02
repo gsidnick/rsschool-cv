@@ -29,3 +29,17 @@ Using JavaScript as an elegant language for client-side and server-side
 development, I'm getting deeper and deeper into the programming process.
 Therefore, I am proud to say that the level of my knowledge at the moment
 is the result of my many years of self-education from scratch.
+
+## Education
+
+### Front-End Developer
+December, 2022 - Present
+**Rolling Scopes School, JS/FE Pre-School 2022Q4**
+
+### Specialist of Computer Scientist & Economist
+September, 2010 - February, 2014
+**Armavir State Pedagogical University (ASPU), Armavir, Russia**
+
+### Operator of Electronic Computing and Computing Machines
+September, 2006 - April, 2010
+**Armavir Engineering College (AEC), Armavir, Russia**
