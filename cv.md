@@ -36,16 +36,19 @@ is the result of my many years of self-education from scratch.
 ### Front-End Developer
 
 December, 2022 - Present
+
 **Rolling Scopes School, JS/FE Pre-School 2022Q4**
 
 ### Specialist of Computer Scientist & Economist
 
 September, 2010 - February, 2014
+
 **Armavir State Pedagogical University (ASPU), Armavir, Russia**
 
 ### Operator of Electronic Computing and Computing Machines
 
 September, 2006 - April, 2010
+
 **Armavir Engineering College (AEC), Armavir, Russia**
 
 ## Experience
@@ -53,11 +56,13 @@ September, 2006 - April, 2010
 ### Electronics Engineer
 
 August, 2012 - Present
+
 **Gazprom UGS LLC**
 
 ### Leading Specialist Programmer
 
 February, 2011 - August, 2012
+
 **Rural Government**
 
 ## Skills
