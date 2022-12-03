@@ -1,6 +1,8 @@
 # Nick Sidorenko
 
-#### Front-End Developer
+### Front-End Developer
+
+---
 
 ## Contact
 
