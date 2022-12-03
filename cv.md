@@ -94,11 +94,11 @@ February, 2011 - August, 2012
 
 ## Code
 
-### Task Description
+### Kata Description
 
 [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 
-### Task Solution
+### Kata Solution
 ```javascript
 function isValidWalk(walk) {
   let sum = 0;
