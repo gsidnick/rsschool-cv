@@ -60,3 +60,30 @@ August, 2012 - Present
 ### Leading Specialist Programmer
 February, 2011 - August, 2012
 **Rural Government**
+
+## Skills
+
+- **Hard Skills**
+    - HTML (100%)
+    - CSS / SCSS / BEM (90%)
+    - JavaScript / TypeScript (70%)
+    - React (50%)
+    - MobX (50%)
+    - Node.JS / Express (50%)
+    - MongoDB / MySQL / PostgreSQL (60%)
+    - Authentication Strategies (JWT) (60%)
+    - Webpack (60%)
+    - Git (80%)
+    - Prettier / ESLint (80%)
+    - Photoshop / Illustrator / Figma (80%)
+    - Russian (Native)
+    - English (A2)
+- **Soft Skills**
+    - Responsibility
+    - Dependability
+    - Adaptability
+    - Learnability
+    - Creativity
+    - Teamwork
+    - Communication
+    - Problem-solving
