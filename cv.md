@@ -50,3 +50,13 @@ September, 2010 - February, 2014
 
 September, 2006 - April, 2010
 **Armavir Engineering College (AEC), Armavir, Russia**
+
+## Experience
+
+### Electronics Engineer
+August, 2012 - Present
+**Gazprom UGS LLC**
+
+### Leading Specialist Programmer
+February, 2011 - August, 2012
+**Rural Government**
