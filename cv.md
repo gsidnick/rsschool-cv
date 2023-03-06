@@ -87,3 +87,33 @@ February, 2011 - August, 2012
     - Teamwork
     - Communication
     - Problem-solving
+
+## Code
+
+### Task Description
+
+[Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+
+### Task Solution
+```javascript
+function isValidWalk(walk) {
+  let sum = 0;
+
+  if (walk.length !== 10) return false;
+
+  let n = walk.filter((elem) => elem === 'n').length;
+  let w = walk.filter((elem) => elem === 'w').length;
+  let s = walk.filter((elem) => elem === 's').length;
+  let e = walk.filter((elem) => elem === 'e').length;
+
+  if (n !== s || w !== e) return false;
+
+  walk.forEach((elem) => {
+    (elem === 'n' || elem === 'w') ? sum += 1 : sum -= 1;
+  });
+
+  if (sum === 0) return true;
+
+  return false;
+}
+```
