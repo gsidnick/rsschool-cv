@@ -1,4 +1,4 @@
-# Nick Sidorenko
+# Nikolay Sidorenko
 
 **Full-stack Developer**
 
