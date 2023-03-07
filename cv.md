@@ -117,3 +117,13 @@ function isValidWalk(walk) {
   return false;
 }
 ```
+
+## Projects
+
+[Counter](https://counter-gsidnick.netlify.app/)
+
+[SongBird](https://songbird-gsidnick.netlify.app/)
+
+[Online-Store](https://online-store-gsidnick.netlify.app/)
+
+[RS Clone](https://rsclone-reactors.netlify.app/)
